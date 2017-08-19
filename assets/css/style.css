@@ -1,0 +1,33 @@
+html {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/6e/dd/f6/6eddf6fe0e3fd470bfa4bf449a3bd727.jpg");
+    background-color: black;
+}
+
+h1 {
+	color: gold;
+	text-align: center;
+	font-size: 85px;
+	font-style: italic
+
+}
+
+img {
+	padding: 30px;
+	margin-left: 60px;
+	margin-right: 30px;
+
+
+	}
+
+  .crystal-image {
+      width: 200px;
+      height: 200px;
+
+
+   }
+
+/** this isnt responding to style */
+.button{
+	background-color: gold;
+	
+}
